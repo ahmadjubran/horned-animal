@@ -10,7 +10,7 @@ class HornedBeastCard extends React.Component {
     };
   }
 
-  handlefavorite = () => {
+  handleFavorite = () => {
     this.setState({
       favorite: this.state.favorite + 1,
     });
@@ -24,9 +24,10 @@ class HornedBeastCard extends React.Component {
             variant="top"
             src={this.props.src}
             alt={this.props.alt}
-            onClick={this.handlefavorite}
+            onClick={this.handleFavorite}
           />
           <Card.Body>
+            <p>{this.props.id}</p>
             <Card.Title>{this.props.title}</Card.Title>
             <Card.Text>{this.props.description}</Card.Text>
             <div style={{ display: "flex", justifyContent: "space-around" }}>

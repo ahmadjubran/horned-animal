@@ -24,4 +24,4 @@
 - Estimate of time needed to complete: **20 minutes**
 - Start time: **02:35 PM**
 - Finish time: **05:40 PM**
-- Actual time needed to complete: **1 hour**
+- Actual time needed to complete: **one and a half hours**
