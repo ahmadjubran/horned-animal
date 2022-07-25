@@ -4,7 +4,7 @@ class Footer extends React.Component {
   render() {
     return (
       <footer>
-        <p>&copy; 2022 Ahmad Jubran</p>
+        <p style={{ marginTop: "2rem" }}>&copy; 2022 Ahmad Jubran</p>
       </footer>
     );
   }
