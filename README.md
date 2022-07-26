@@ -21,7 +21,7 @@
 ### Class02 - 03
 
 - Number and name of feature: **#3** Bootstrap
-- Estimate of time needed to complete: **20 minutes**
+- Estimate of time needed to complete: **1 hour**
 - Start time: **02:35 PM**
 - Finish time: **05:40 PM**
 - Actual time needed to complete: **one and a half hours**
@@ -31,7 +31,15 @@
 ### Class03 - 01
 
 - Number and name of feature: **#1** Display a Modal
-- Estimate of time needed to complete: **1 hours**
+- Estimate of time needed to complete: **1 hour**
 - Start time: **02:50 PM**
 - Finish time: **06:50 PM**
 - Actual time needed to complete: **one and a half hours**
+
+### Class03 - Stretch Goal
+
+- Number and name of feature: **Stretch Goal:** Fuzzy search
+- Estimate of time needed to complete: **1 hour**
+- Start time: **07:30 PM**
+- Finish time: **08:30 PM**
+- Actual time needed to complete: **1 hour**
